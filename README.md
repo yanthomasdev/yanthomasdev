@@ -1,6 +1,6 @@
 ### Hey! It's me, Yan! 👋
 
-I'm currently contributing to [Astro](astro.build/) and building Vue.js/Nuxt.js projects! 🚀💚
+I'm currently contributing to [Astro](https://astro.build/) and building Vue.js/Nuxt.js projects! 🚀💚
 
 
 See more: [Twitter](https://twitter.com/yanthomasdev)
