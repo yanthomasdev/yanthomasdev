@@ -1,6 +1,6 @@
 ## Hey! It's me, Yan! 👋
 
-- 🧑 Brazilian, 18 years old, college freshman.
+- 🧑 Brazilian, 19 years old, college freshman.
 - 🛠 Passionate about building fast, accessible, and friendly UIs.
 - 💛 [@astrodotbuild](https://astro.build/) Core Team Member.
 - 💼 Available for hire!
