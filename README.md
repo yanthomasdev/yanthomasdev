@@ -7,7 +7,6 @@ You might've seen me around projects like:
 - [Astro](https://astro.build) (core maintainer)
 - [Biome](https://biomejs.dev/) (maintainer)
 - [Bombshell](https://bomb.sh) (maintainer)
-- [Decap CMS](https://decapcms.org/) (maintainer)
 - [Lunaria](https://lunaria.dev) (creator and maintainer)
 
 [Website](https://yanthomas.dev) | [LinkedIn](https://www.linkedin.com/in/yanthomasdev/) | [Resume](https://yanthomas.dev/resume.pdf)
